@@ -1,0 +1,5 @@
+KEM_name,public_key,secret_key,ciphertext,NIST_level,keygen/s,encaps/s,decaps/s
+Classic-McEliece-8192128,240,14080,240,5,0,0,0
+Kyber1024,1568,3168,1568,5,1,2,0
+NTRU-HRSS-1373,2401,2983,2401,5,5,0,0
+FireSaber-KEM,1472,3040,1472,5,0,0,0
